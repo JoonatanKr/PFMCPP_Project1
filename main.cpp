@@ -52,84 +52,114 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: plane
+//  action 1: flies
+plane.fly();
 
-//  action 2:
+//  action 2: crashes
+plane.crash();
 
-//  action 3:
- 
+//  action 3: takes off
+plane.takeOff();
+
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: cat
+//  action 1: yawns
+cat.yawn();
 
-//  action 2:
+//  action 2: jumps
+cat.jump();
 
-//  action 3:
+//  action 3: runs
+cat.run();
  
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: bird
+//  action 1: sings
+bird.sing();
 
-//  action 2:
+//  action 2: flaps its wings
+bird.flapWings();
 
-//  action 3:
+//  action 3: dies
+bird.die();
  
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: firetruck
+//  action 1: puts out fire
+fireTruck.putOutFire();
 
-//  action 2:
+//  action 2: extends laddders
+fireTruck.extendLadder();
 
-//  action 3:
+//  action 3: sounds alarm
+fireTruck.soundAlarm();
  
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: soldier
+//  action 1: crawls
+soldier.crawl();
 
-//  action 2:
+//  action 2: shoots
+soldier.shoot();
 
-//  action 3:
- 
+//  action 3: hides
+soldier.hide();
+
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: wasp
+//  action 1: stings
+wasp.sting();
 
-//  action 2:
+//  action 2: flies
+wasp.fly();
 
-//  action 3:
+//  action 3: scares everyone and everything
+wasp.scareEveryoneAndEverything();
  
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: oven
+//  action 1: heats up
+oven.heatup();
 
-//  action 2:
+//  action 2: consumes energy
+oven.consumeEnergy();
 
-//  action 3:
+//  action 3: bakes food
+oven.bakeFood();
  
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: fish
+//  action 1: swims
+fish.swim();
 
-//  action 2:
+//  action 2: eats
+fish.eat();
 
-//  action 3:
+//  action 3: shits
+fish.shit();
  
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: burglar
+//  action 1: steals
+burglar.steal();
 
-//  action 2:
+//  action 2: runs
+burglar.run();
 
-//  action 3:
+//  action 3: hides
+burglar.hide();
  
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: broker
+//  action 1: buys
+broker.buy();
 
-//  action 2:
+//  action 2: sells
+broker.sell();
 
-//  action 3:
+//  action 3: profits
+broker.profit();
  
 
 
