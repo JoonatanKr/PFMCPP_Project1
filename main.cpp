@@ -52,114 +52,114 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun: plane
-//  action 1: flies
-plane.fly();
+//  Noun: airPlane
+//  action 1: turns around
+airPlane.turnsAround();
 
-//  action 2: crashes
-plane.crash();
+//  action 2: crashes and burns
+airPlane.crashAndBurn();
 
-//  action 3: takes off
-plane.takeOff();
+//  action 3: executes a nose dive
+airPlane.executeNoseDive();
 
 //  2)
-//  Noun: cat
-//  action 1: yawns
-cat.yawn();
+//  Noun: saberTooth
+//  action 1: rolls around
+saberTooth.rollAround();
 
-//  action 2: jumps
-cat.jump();
+//  action 2: hides in bushes
+saberTooth.hideInBush();
 
-//  action 3: runs
-cat.run();
+//  action 3: surprise attacks prey
+saberTooth.surpriseAttack();
  
 //  3)
-//  Noun: bird
-//  action 1: sings
-bird.sing();
+//  Noun: redParrot
+//  action 1: mimics words
+redParrot.mimicWord();
 
 //  action 2: flaps its wings
-bird.flapWings();
+redParrot.flapWings();
 
-//  action 3: dies
-bird.die();
+//  action 3: screams horribly
+redParrot.screamHorribly();
  
 //  4)
-//  Noun: firetruck
-//  action 1: puts out fire
-fireTruck.putOutFire();
+//  Noun: policeOfficer
+//  action 1: chases criminals
+policeOfficer.chaseCriminal();
 
-//  action 2: extends laddders
-fireTruck.extendLadder();
+//  action 2: tackles criminals
+policeOfficer.tackleCriminal();
 
 //  action 3: sounds alarm
-fireTruck.soundAlarm();
+policeOfficer.soundAlarm();
  
 //  5)
-//  Noun: soldier
-//  action 1: crawls
-soldier.crawl();
+//  Noun: footSoldier
+//  action 1: takes cover
+footSoldier.takeCover();
 
-//  action 2: shoots
-soldier.shoot();
+//  action 2: shoots guns
+footSoldier.shootGun();
 
-//  action 3: hides
-soldier.hide();
+//  action 3: throws grenades
+footSoldier.throwGrenade();
 
 //  6)
-//  Noun: wasp
-//  action 1: stings
-wasp.sting();
+//  Noun: killerBee
+//  action 1: sting the enemy
+killerBee.stingEnemy();
 
-//  action 2: flies
-wasp.fly();
+//  action 2: takes flight
+killerBee.takeFlight();
 
 //  action 3: scares everyone and everything
-wasp.scareEveryoneAndEverything();
+killerBee.scareEveryoneAndEverything();
  
 //  7)
-//  Noun: oven
+//  Noun: heatSink
 //  action 1: heats up
-oven.heatup();
+heatSink.heatUp();
 
-//  action 2: consumes energy
-oven.consumeEnergy();
+//  action 2: exchanges heat
+heatSink.exchangeHeat();
 
-//  action 3: bakes food
-oven.bakeFood();
+//  action 3: protects device from over heating
+heatSink.protectDeviceFromHeat();
  
 //  8)
-//  Noun: fish
-//  action 1: swims
-fish.swim();
+//  Noun: goldFish
+//  action 1: avoids predators
+goldFish.avoidPredator();
 
-//  action 2: eats
-fish.eat();
+//  action 2: eats plankton
+goldFish.eatPlankton();
 
-//  action 3: shits
-fish.shit();
+//  action 3: eats vegatation
+goldFish.eatVegetation();
  
 //  9)
-//  Noun: burglar
-//  action 1: steals
-burglar.steal();
+//  Noun: bankRobber
+//  action 1: robs banks
+bankRobber.robBank();
 
-//  action 2: runs
-burglar.run();
+//  action 2: avoids the police
+bankRobber.avoidPolice();
 
-//  action 3: hides
-burglar.hide();
+//  action 3: steals money
+bankRobber.stealMoney();
  
 //  10)
-//  Noun: broker
-//  action 1: buys
-broker.buy();
+//  Noun: guitarTeacher
+//  action 1: teaches guitar
+guitarTeacher.teachGuitar();
 
-//  action 2: sells
-broker.sell();
+//  action 2: plays guitar
+guitarTeacher.playGuitar();
 
-//  action 3: profits
-broker.profit();
+//  action 3: gives homework
+guitarTeacher.giveHomework();
  
 
 
