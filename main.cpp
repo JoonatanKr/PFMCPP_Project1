@@ -52,84 +52,114 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: airPlane
+//  action 1: turns around
+airPlane.turnsAround();
 
-//  action 2:
+//  action 2: crashes and burns
+airPlane.crashAndBurn();
 
-//  action 3:
- 
+//  action 3: executes a nose dive
+airPlane.executeNoseDive();
+
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: saberTooth
+//  action 1: rolls around
+saberTooth.rollAround();
 
-//  action 2:
+//  action 2: hides in bushes
+saberTooth.hideInBush();
 
-//  action 3:
+//  action 3: surprise attacks prey
+saberTooth.surpriseAttack();
  
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: greenParrot
+//  action 1: mimics human
+greenParrot.mimicHuman();
 
-//  action 2:
+//  action 2: takes flight
+greenParrot.takeFlight();
 
-//  action 3:
+//  action 3: screams Terribly
+greemParrot.screamTerribly();
  
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: policeOfficer
+//  action 1: chases criminals
+policeOfficer.chaseCriminal();
 
-//  action 2:
+//  action 2: tackles criminals
+policeOfficer.tackleCriminal();
 
-//  action 3:
+//  action 3: sounds alarm
+policeOfficer.soundAlarm();
  
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: footSoldier
+//  action 1: takes cover
+footSoldier.takeCover();
 
-//  action 2:
+//  action 2: shoots guns
+footSoldier.shootGun();
 
-//  action 3:
- 
+//  action 3: throws grenades
+footSoldier.throwGrenade();
+
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: killerBee
+//  action 1: sting the enemy
+killerBee.stingEnemy();
 
-//  action 2:
+//  action 2: takes flight
+killerBee.takeFlight();
 
-//  action 3:
+//  action 3: scares everyone and everything
+killerBee.scareEveryoneAndEverything();
  
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: heatSink
+//  action 1: heats up
+heatSink.heatUp();
 
-//  action 2:
+//  action 2: exchanges heat
+heatSink.exchangeHeat();
 
-//  action 3:
+//  action 3: protects device from over heating
+heatSink.protectDeviceFromHeat();
  
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: goldFish
+//  action 1: avoids predators
+goldFish.avoidPredator();
 
-//  action 2:
+//  action 2: eats plankton
+goldFish.eatPlankton();
 
-//  action 3:
+//  action 3: eats vegatation
+goldFish.eatVegetation();
  
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: bankRobber
+//  action 1: robs banks
+bankRobber.robBank();
 
-//  action 2:
+//  action 2: avoids the police
+bankRobber.avoidPolice();
 
-//  action 3:
+//  action 3: steals money
+bankRobber.stealMoney();
  
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: guitarTeacher
+//  action 1: teaches guitar
+guitarTeacher.teachGuitar();
 
-//  action 2:
+//  action 2: plays guitar
+guitarTeacher.playGuitar();
 
-//  action 3:
+//  action 3: gives homework
+guitarTeacher.giveHomework();
  
 
 
