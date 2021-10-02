@@ -74,15 +74,15 @@ saberTooth.hideInBush();
 saberTooth.surpriseAttack();
  
 //  3)
-//  Noun: redParrot
-//  action 1: mimics words
-redParrot.mimicWord();
+//  Noun: greenParrot
+//  action 1: mimics human
+greenParrot.mimicHuman();
 
-//  action 2: flaps its wings
-redParrot.flapWings();
+//  action 2: takes flight
+greenParrot.takeFlight();
 
-//  action 3: screams horribly
-redParrot.screamHorribly();
+//  action 3: screams Terribly
+greemParrot.screamTerribly();
  
 //  4)
 //  Noun: policeOfficer
